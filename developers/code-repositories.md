@@ -26,9 +26,6 @@
 ## Beefy Community Tools
 
 * Allowance Checker
-
   * Site: [https://allowance.beefy.finance/](https://allowance.beefy.finance/)
   * Repo: [https://github.com/beefyfinance/bsc-allowance](https://github.com/beefyfinance/bsc-allowance)
-
-
 

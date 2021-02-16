@@ -12,5 +12,3 @@ description: Tools to help the Binance Smart Chain Community
 
 Forked from a [token allowance checker](https://tac.dappstar.io/#/) on ETH chain, this tool is used to revoke spend permissions from DApps your wallet has previously interacted with. Leaving these spend permissions could allow dishonest teams or individuals to transfer all of your approved tokes at anytime without asking further permission from you.
 
-
-

@@ -6,13 +6,11 @@ description: Yield Optimizing on Fry.World
 
 ## Active Vaults
 
-**2020-10-12** 
+**2020-10-12**
 
 * Added FRIES farming support for BUSD, WBNB and BURGERS
 
 Majority of the yield farming revenue is returned to users who provide capital. The remaining yield farming revenue is distributed to users who stake their BIFI in the [reward pool](https://gov.beefy.finance/stake), as well as used to pay the gas of harvests calls. A 0.1% fee is applied to all withdrawals. This is to prevent bad actors from 'gaming' the system.
-
-
 
 ## Farming FRIES with BURGERS
 
@@ -33,15 +31,11 @@ You do not receive FRIES directly. Instead, the farmed FRIES are sold to return 
 | **Strategy Contract** | [0x7FBA53a4DB251C4364998631E6e88b4445bF21C0](https://bscscan.com/address/0x7fba53a4db251c4364998631e6e88b4445bf21c0) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x247d66b5f72d2b851c21b42234966144d3d574d400c6c2c0faeb592f3f1ccc15) |
 
-
-
 ## Discontinued Vaults
 
 **2020-10-31**
 
-*  [FryWorld team deprecates BUSD, WBNB single asset farms](https://twitter.com/fry_world/status/1322618414ac519603200)
-
-
+* [FryWorld team deprecates BUSD, WBNB single asset farms](https://twitter.com/fry_world/status/1322618414ac519603200)
 
 ## Farming FRIES with BUSD
 
@@ -61,8 +55,6 @@ You do not receive FRIES directly. Instead, the farmed FRIES are sold to return 
 | **Vault Contract** | [0x9412EFED190138044B3b5444eEF87A16dcC4BE43](https://bscscan.com/address/0x9412efed190138044b3b5444eef87a16dcc4be43) |
 | **Strategy Contract** | [0x9B8050D1d9f41DB4eEa9cfed1D1A945fd1978434](https://bscscan.com/address/0x9b8050d1d9f41db4eea9cfed1d1a945fd1978434) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0xfd459adfdffa64998e672cffafd4199acec115daa066795f5e227ea6b6c3b5ed) |
-
-
 
 ## Farming FRIES with WBNB
 

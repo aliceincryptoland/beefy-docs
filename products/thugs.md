@@ -8,8 +8,6 @@ description: Yield Optimizing on Thugs.fi
 
 Majority of the yield farming revenue is returned to users who provide capital. The remaining yield farming revenue is distributed to users who stake their BIFI in the [reward pool](https://gov.beefy.finance/stake), as well as used to pay the gas of harvests calls. A small fee is applied to all withdrawals. This is to prevent bad actors from 'gaming' the system.
 
-## 
-
 ## Farming GUNS with DRUGS
 
 This strategy farms GUNS, the [Lord of War token.](https://docs.thugs.fi/thugonomics/guns)
@@ -48,9 +46,7 @@ You do not receive DRUGS directly. Instead, the farmed DRUGS are sold to return 
 | **Strategy Contract** | [0xbb7ee2bf1be665fddb6cb74c70660a6dada17301](https://bscscan.com/address/0xbb7ee2bf1be665fddb6cb74c70660a6dada17301) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x29d9999567a23c4d0bc9098a3bd0c37455bb79315dcfefa546ec0d3ea3cc28ff) |
 | **Performance Fee** | 4.0% to BIFI holders & 1.5% to Treasury |
-| **Call Fee** | 0.5%  |
-
-
+| **Call Fee** | 0.5% |
 
 ## Farming DRUGS with DRUGS-BNB LP
 
@@ -71,9 +67,7 @@ You do not receive DRUGS directly. Instead, the farmed DRUGS are sold to return 
 | **Strategy Contract** | [0x8bc142d8c30280950da80cf9681311a55eb6ea8b](https://bscscan.com/address/0x8bc142d8c30280950da80cf9681311a55eb6ea8b) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x5e85b319a355d8d3b26e12ffc61acee6203cf53e679492f8f2f9d9a7910c6862) |
 | **Performance Fee** | 4.0% to BIFI holders & 1.5% to Treasury |
-| **Call Fee** | 0.5%  |
-
-
+| **Call Fee** | 0.5% |
 
 ## Farming DRUGS with GUNS-BNB LP
 
@@ -94,9 +88,7 @@ You do not receive DRUGS directly. Instead, the farmed DRUGS are sold to return 
 | **Strategy Contract** | [0x6f675be4ba9f77cdcf94733ea84a9bcd3e3d6704](https://bscscan.com/address/0x6f675be4ba9f77cdcf94733ea84a9bcd3e3d6704) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x3d0c6e34ec35be64c38f407f07e182e469cb5c0c1144196907e979635e633703) |
 | **Performance Fee** | 4.0% to BIFI holders & 1.5% to Treasury |
-| **Call Fee** | 0.5%  |
-
-
+| **Call Fee** | 0.5% |
 
 ## Farming DRUGS with BTC-BNB LP
 
@@ -114,12 +106,10 @@ You do not receive DRUGS directly. Instead, the farmed DRUGS are sold to return 
 | **Basic Strategy** | DRUGS are farmed with BTC-BNB LP and sold for more BTC-BNB LP |
 | **Yield Payout** | All earnings will be paid out in the asset deposited |
 | **Vault Contract** | [0x62C857Ae71Ad9ab671ca4F278eC28d89AcCf1bB2](https://bscscan.com/address/0x62c857ae71ad9ab671ca4f278ec28d89accf1bb2) |
-| **Strategy Contract** | [0x8b8dd9f9d3d22b19036e4a12637ed0c09ee18275](https://bscscan.com/address/0x8b8dd9f9d3d22b19036e4a12637ed0c09ee18275)  |
+| **Strategy Contract** | [0x8b8dd9f9d3d22b19036e4a12637ed0c09ee18275](https://bscscan.com/address/0x8b8dd9f9d3d22b19036e4a12637ed0c09ee18275) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x7615cdf398bd33d708b99f4e250327a588aee2c678c49df6ccf77dcd78685efb) |
 | **Performance Fee** | 4.0% to BIFI holders & 1.5% to Treasury |
-| **Call Fee** | 0.5%  |
-
-
+| **Call Fee** | 0.5% |
 
 ## Farming DRUGS with BUSD-BNB LP
 
@@ -137,12 +127,10 @@ You do not receive DRUGS directly. Instead, the farmed DRUGS are sold to return 
 | **Basic Strategy** | DRUGS are farmed with BUSD-BNB LP and sold for more BUSD-BNB LP |
 | **Yield Payout** | All earnings will be paid out in the asset deposited |
 | **Vault Contract** | [0x26e6dA6AF638Df79a790911dAe6381d3e96B9DAc](https://bscscan.com/address/0x26e6dA6AF638Df79a790911dAe6381d3e96B9DAc) |
-| **Strategy Contract** | [0x0a9bd80f8998d5a6198d20913cd5793083547501](https://bscscan.com/address/0x0a9bd80f8998d5a6198d20913cd5793083547501)  |
+| **Strategy Contract** | [0x0a9bd80f8998d5a6198d20913cd5793083547501](https://bscscan.com/address/0x0a9bd80f8998d5a6198d20913cd5793083547501) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x6b804108531288da71d93915b7fe53911735194549a8b2b419634bd4ac4abded) |
 | **Performance Fee** | 4.0% to BIFI holders & 1.5% to Treasury |
-| **Call Fee** | 0.5%  |
-
-
+| **Call Fee** | 0.5% |
 
 ## Farming DRUGS with ETH-BNB LP
 
@@ -163,19 +151,15 @@ You do not receive DRUGS directly. Instead, the farmed DRUGS are sold to return 
 | **Strategy Contract** | [0xa7dc5de8fe0835d5a0c59a7a0fd64632cf492dd8](https://bscscan.com/address/0xa7dc5de8fe0835d5a0c59a7a0fd64632cf492dd8) |
 | **Example Harvest TX** | [harvest\(\)](https://bscscan.com/tx/0x8cf9dbcb38dc219422066a6a81347885951881fb2bcd59ffc3bea9164e745fd6) |
 | **Performance Fee** | 4.0% to BIFI holders & 1.5% to Treasury |
-| **Call Fee** | 0.5%  |
+| **Call Fee** | 0.5% |
 
 ## Discontinued Vaults
 
-**2020 - 11 - 07  \*\*\*Due to Syrup Staking Security Issue\*\*\*** 
+**2020 - 11 - 07 \*\*\*Due to Syrup Staking Security Issue\*\*\***
 
 \*\*\*\*[**Incident Report** ](https://medium.com/beefyfinance/2020-11-03-incident-report-cake-drugs-11403bd3e271?source=collection_home---6------0-----------------------)\*\*\*\*
 
 * Removed DRUGS staking and GUNS hoes pool vault for more DRUGS
-
-
-
-
 
 ## Farming GUNS with DRUGS
 

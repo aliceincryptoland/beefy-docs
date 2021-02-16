@@ -1,15 +1,18 @@
 # Table of contents
 
-* [Introduction to Beefy.Finance](README.md)
-* [FAQ](faq.md)
-* [How-To Guides](how-to-guides/README.md)
-  * [How to participate in a mooVault](how-to-guides/how-to-participate-in-a-moovault.md)
-  * [How to Add a Custom Token to Metamask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
-* [Governance](governance.md)
+* [Presentation of Beefy.Finance](README.md)
+
+## Getting started <a id="introduction"></a>
+
+* [How-To Guides](introduction/how-to-guides/README.md)
+  * [How to participate in a mooVault](introduction/how-to-guides/how-to-participate-in-a-moovault.md)
+  * [How to Add a Custom Token to Metamask](introduction/how-to-guides/how-to-add-a-custom-token-to-metamask.md)
+* [FAQ](introduction/faq.md)
+* [mooVaults APY](introduction/bifi-and-mootokens.md)
+* [Governance](introduction/governance.md)
 
 ## mooVaults <a id="products"></a>
 
-* [mooVaults APY](products/bifi-and-mootokens.md)
 * [BIFI Maxi](products/bifi-maxi.md)
 * [Thugs](products/thugs.md)
 * [Pancake Swap](products/pancake-swap.md)
@@ -22,13 +25,11 @@
 * [Code Repositories](developers/code-repositories.md)
 * [Beefy Cowmunity Tools](developers/beefy-cowmunity-tools.md)
 
----
+## Meet the Team
 
-* [Cowmunity & Grill Masters](community.md)
+* [Cowmunity & Grill Masters](meet-the-team/community.md)
 
 ## Additional Resources
-
----
 
 * [Github](https://github.com/beefyfinance)
 * [Twitter](https://twitter.com/beefyfinance)
