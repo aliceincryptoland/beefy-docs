@@ -8,6 +8,7 @@
   * [Vaults](introduction/features/moovaults/README.md)
     * [Liquidity pairs](introduction/features/moovaults/liquidity-pairs.md)
     * [Understanding APY](introduction/features/moovaults/bifi-and-mootokens.md)
+  * [Barn of Trust](introduction/features/barn-of-trust.md)
   * [Governance](introduction/features/governance/README.md)
     * [Staking](introduction/features/governance/staking.md)
     * [Voting](introduction/features/governance/voting.md)
