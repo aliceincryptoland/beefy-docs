@@ -1,2 +1,2 @@
-# mooVaults
+# Vaults
 

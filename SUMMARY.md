@@ -5,7 +5,7 @@
 ## Getting started <a id="introduction"></a>
 
 * [Features](introduction/features/README.md)
-  * [mooVaults](introduction/features/moovaults/README.md)
+  * [Vaults](introduction/features/moovaults/README.md)
     * [Liquidity pairs](introduction/features/moovaults/liquidity-pairs.md)
     * [Understanding APY](introduction/features/moovaults/bifi-and-mootokens.md)
   * [Governance](introduction/features/governance/README.md)
