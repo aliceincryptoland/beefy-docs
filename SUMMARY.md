@@ -1,15 +1,20 @@
 # Table of contents
 
-* [Presentation of Beefy.Finance](README.md)
+* [Introduction - Beefy.Finance](README.md)
 
 ## Getting started <a id="introduction"></a>
 
+* [Features](introduction/features/README.md)
+  * [mooVaults](introduction/features/moovaults/README.md)
+    * [Liquidity pairs](introduction/features/moovaults/liquidity-pairs.md)
+    * [Understanding APY](introduction/features/moovaults/bifi-and-mootokens.md)
+  * [Governance](introduction/features/governance/README.md)
+    * [Staking](introduction/features/governance/staking.md)
+    * [Voting](introduction/features/governance/voting.md)
 * [How-To Guides](introduction/how-to-guides/README.md)
   * [How to participate in a mooVault](introduction/how-to-guides/how-to-participate-in-a-moovault.md)
   * [How to Add a Custom Token to Metamask](introduction/how-to-guides/how-to-add-a-custom-token-to-metamask.md)
 * [FAQ](introduction/faq.md)
-* [mooVaults APY](introduction/bifi-and-mootokens.md)
-* [Governance](introduction/governance.md)
 
 ## mooVaults <a id="products"></a>
 

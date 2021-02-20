@@ -2,7 +2,7 @@
 description: Yield Optimizer On Binance Smart Chain
 ---
 
-# Presentation of Beefy.Finance
+# Introduction - Beefy.Finance
 
 ## Beef Up Those Yields
 
