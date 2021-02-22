@@ -21,11 +21,19 @@
 ## mooVaults <a id="products"></a>
 
 * [BIFI Maxi](products/bifi-maxi.md)
+* [Jetfuel](products/jetfuel.md)
+* [Auto](products/auto.md)
 * [Thugs](products/thugs.md)
 * [Pancake Swap](products/pancake-swap.md)
 * [FryWorld](products/fryworld.md)
 * [ForTube](products/fortube.md)
-* [Untitled](products/untitled.md)
+* [Venus](products/untitled.md)
+* [Kebab](products/kebab.md)
+* [MonsterSlayer](products/monsterslayer.md)
+* [JulSwap](products/julswap.md)
+* [bDollar](products/bdollar.md)
+* [BakerySwap](products/bakeryswap.md)
+* [Narwhal](products/narwhal.md)
 
 ## For Smart Farmers <a id="developers"></a>
 
