@@ -13,8 +13,9 @@
     * [Staking](introduction/features/governance/staking.md)
     * [Voting](introduction/features/governance/voting.md)
 * [How-To Guides](introduction/how-to-guides/README.md)
-  * [How to participate in a mooVault](introduction/how-to-guides/how-to-participate-in-a-moovault.md)
-  * [How to Add a Custom Token to Metamask](introduction/how-to-guides/how-to-add-a-custom-token-to-metamask.md)
+  * [Participate in a mooVault](introduction/how-to-guides/how-to-participate-in-a-moovault.md)
+  * [Add a Custom Token on Metamask](introduction/how-to-guides/how-to-add-a-custom-token-to-metamask.md)
+  * [Vote](introduction/how-to-guides/vote.md)
 * [FAQ](introduction/faq.md)
 
 ## mooVaults <a id="products"></a>
@@ -24,6 +25,7 @@
 * [Pancake Swap](products/pancake-swap.md)
 * [FryWorld](products/fryworld.md)
 * [ForTube](products/fortube.md)
+* [Untitled](products/untitled.md)
 
 ## For Smart Farmers <a id="developers"></a>
 

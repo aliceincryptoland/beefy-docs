@@ -4,7 +4,7 @@ description: >-
   mooVault
 ---
 
-# How to participate in a mooVault
+# Participate in a mooVault
 
 ## Prerequisites
 

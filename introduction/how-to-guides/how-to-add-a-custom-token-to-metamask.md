@@ -4,7 +4,7 @@ description: >-
   example.
 ---
 
-# How to Add a Custom Token to Metamask
+# Add a Custom Token on Metamask
 
 ## Visual Walkthrough
 
